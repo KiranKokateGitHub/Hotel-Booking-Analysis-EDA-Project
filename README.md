@@ -55,9 +55,10 @@ Dataset contains following features:
 We have used Python 3 to its following packages:
 
 1. Pandas
-2. Matplotlib
-3. Seaborn
-4. Sklearn
+2. Numpy
+3. Matplotlib
+4. Seaborn
+5. Sklearn
 
 # **Conclusions**
 
