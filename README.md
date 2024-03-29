@@ -50,7 +50,7 @@ Dataset contains following features:
 31. reservation_status
 32. reservation_status_date
 
-# **ools and Libraries Used**
+# **Tools and Libraries Used**
 
 We have used Python 3 to its following packages:
 
@@ -59,7 +59,7 @@ We have used Python 3 to its following packages:
 3. Seaborn
 4. Sklearn
 
-# **Conclusion**
+# **Conclusions**
 
 1. City hotels are the most preferred hotel type by the guests. We can say City hotel is the busiest hotel.
 2. 27.5 % bookings were got cancelled out of all the bookings.
