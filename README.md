@@ -1,5 +1,6 @@
 # Hotel-Booking-Analysis-EDA-Project
-Hotel Booking Analysis EDA Project
+Title- Hotel Booking Analysis EDA Project
+Contributor- Kiran Kokate
 
 # **Introduction**
 
